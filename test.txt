@@ -9,4 +9,4 @@ ls
 git add test.txt
 git status
 git commit -m "first commit" test.txt
-git push -u origin master
+git push -u origin main
