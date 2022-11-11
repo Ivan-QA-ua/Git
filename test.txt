@@ -1,0 +1,8 @@
+cd GIT_portnov
+ls
+git config --global user.name "Ivan-QA-ua"
+git config --global user.email "nonstopenergy1991@gmail.com"
+git clone https://github.com/Ivan-QA-ua/Git.git
+ls
+cd Git
+ls
